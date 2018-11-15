@@ -54,4 +54,3 @@
 		<? endif; ?>
 	</li>
 <? endforeach; ?>
-asd
